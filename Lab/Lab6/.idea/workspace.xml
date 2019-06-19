@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta1</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1559848813372</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae83694a-d428-40aa-9d35-5c95ecb6376f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Student.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/StudentDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Main2Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/StudentAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/StudentRender.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/giaodien.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Main3Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Model/Classs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Classss.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Classs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/Classs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/ClassDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/ClassRender.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/StudentAdapter2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/ClassDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Model/Student.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/StudentDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/MySpinnerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/vspinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/spinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/Main3Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/roww.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/StudentAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/StudentAdapter2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/Main2Activity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="192.168.208.103:5555" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3Bai2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="vn.lab2.lab6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\SqliteDemoo-master\Lab6 (1)\Lab6\app\src\main\res\drawable" />
+      <recent name="C:\Users\Admin\Desktop\SqliteDemoo-master\Lab6\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae83694a-d428-40aa-9d35-5c95ecb6376f" name="Default Changelist" comment="" />
+      <created>1559757316717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559757316717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26701915" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.26770538" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.23087248" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/listview.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/StudentRender.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/StudentAdapter2.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/ClassDAO.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/ClassRender.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Model/Student.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="15865" column="7" lean-forward="true" selection-start-line="15865" selection-start-column="7" selection-end-line="15865" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Model/Classs.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/a1.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/a11.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/a22.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/a23.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/anh.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/anh2.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/sss.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/MySpinnerAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/234.jfif" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/StudentAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/Main2Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Activity/Main3Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Sqllite/StudentDAO.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/lab2/lab6/Adapter/StudentAdapter2.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/giaodien.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/roww.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/vspinner.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/spinner.xml" />
+  </component>
+</project>

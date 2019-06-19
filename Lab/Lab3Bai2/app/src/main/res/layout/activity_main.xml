@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<TextView
+    android:id="@+id/tvPt"
+    android:textSize="35sp"
+    android:gravity="center"
+    android:text=" ax^2 + bx + c = 0 "
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<TextView
+    android:layout_marginTop="40sp"
+    android:gravity="center"
+    android:textSize="20sp"
+    android:layout_below="@+id/tvPt"
+    android:text="Mời bạn nhập a b c"
+    android:id="@+id/tvMoi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/tvMoi"
+        android:id="@+id/edtA"
+        android:hint="Nhập a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/edtA"
+        android:hint="Nhập b"
+        android:id="@+id/edtB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/edtB"
+        android:id="@+id/edtC"
+        android:hint="Nhập c"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="giaiPt"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/edtC"
+        android:text="GIẢI"
+        android:layout_width="70dp"
+        android:layout_height="70dp" />
+</RelativeLayout>
