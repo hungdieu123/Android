@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="60dp">
+<ImageView
+    android:id="@+id/imgAnh"
+    android:layout_centerHorizontal="true"
+    android:src="@mipmap/bogdan"
+    android:layout_width="150dp"
+    android:layout_height="150dp" />
+    <TextView
+        android:layout_below="@+id/imgAnh"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="Tìm bội chung của 2 số"
+        android:id="@+id/tvTex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/tvTex"
+        android:hint="Số A"
+        android:id="@+id/edtSoA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/edtSoA"
+        android:hint="Số B"
+        android:id="@+id/edtSoB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="timBC"
+        android:id="@+id/btnKQ"
+        android:text="KQ"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/edtSoB"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+
+</RelativeLayout>
